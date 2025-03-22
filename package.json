@@ -1,0 +1,11 @@
+
+{
+  "name": "fractanima-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Starting client...'",
+    "build": "echo 'Building client...'"
+  },
+  "dependencies": {}
+}
